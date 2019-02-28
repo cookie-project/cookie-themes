@@ -1,8 +1,8 @@
-# Halloween Theme
+# Wood Theme
 
 ## Preview
 
-![Image of Halloween Theme](halloween.png)
+![Image of Wood Theme](wood.png)
 
 ## Code
 

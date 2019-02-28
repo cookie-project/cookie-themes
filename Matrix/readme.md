@@ -1,8 +1,8 @@
-# Halloween Theme
+# Matrix Theme
 
 ## Preview
 
-![Image of Halloween Theme](halloween.png)
+![Image of Matrix Theme](matrix.png)
 
 ## Code
 
