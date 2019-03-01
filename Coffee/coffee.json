@@ -1,8 +1,8 @@
 {
     "palette": {
         "common": {
-            "black": "rgba(0, 0, 0, 0.86)",
-            "white": "rgba(255, 255, 255, 1)"
+            "black": "#000",
+            "white": "#fff"
         },
         "background": {
             "paper": "rgba(74, 74, 74, 1)",
@@ -11,25 +11,25 @@
         "primary": {
             "light": "rgba(255, 255, 255, 1)",
             "main": "rgba(139, 87, 42, 1)",
-            "dark": "rgba(139, 87, 42, 1)",
+            "dark": "rgba(164, 102, 48, 1)",
             "contrastText": "rgba(255, 255, 255, 1)"
         },
         "secondary": {
-            "light": "rgba(245, 166, 35, 1)",
-            "main": "rgba(139, 87, 42, 1)",
-            "dark": "rgba(139, 87, 42, 1)",
+            "light": "rgba(255, 255, 255, 1)",
+            "main": "rgba(115, 63, 18, 1)",
+            "dark": "rgba(153, 92, 39, 1)",
             "contrastText": "#fff"
         },
         "error": {
-            "light": "rgba(208, 2, 27, 1)",
-            "main": "rgba(208, 2, 27, 1)",
-            "dark": "rgba(208, 2, 27, 1)",
+            "light": "#e57373",
+            "main": "#f44336",
+            "dark": "#d32f2f",
             "contrastText": "#fff"
         },
         "text": {
-            "primary": "rgba(255, 255, 255, 100)",
-            "secondary": "rgba(155, 155, 155, 1)",
-            "disabled": "rgba(0, 0, 0, 0.38)",
+            "primary": "rgba(255, 255, 255, 1)",
+            "secondary": "rgba(255, 255, 255, 1)",
+            "disabled": "rgba(92, 92, 92, 1)",
             "hint": "rgba(0, 0, 0, 0.38)"
         }
     }
